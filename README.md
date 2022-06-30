@@ -6,7 +6,7 @@
 </div>  
   
 <h1 align="center"> Lista To Do - Chechpoint 2 Frontend 2</h1>
-<h2>Os arquivos do projeto estão na branch master</h2>
+<h2 align="center bold">## Os arquivos do projeto estão na branch master</h2>
 <hr>
 
 <p align="center">
