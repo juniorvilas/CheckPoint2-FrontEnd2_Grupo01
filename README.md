@@ -62,7 +62,6 @@ $ git clone https://github.com/juniorvilas/CheckPoint2-FrontEnd2_Grupo01.git
 # Acesse
 $ cd CheckPoint2-FrontEnd2_Grupo01
 
-# O projeto será inicializado em <http://localhost:3000>
 ```
 
 ## :memo: Licença ##
