@@ -4,36 +4,6 @@
 
   &#xa0;
 
-  <a href="https://juniorvilas.github.io/CheckPoint2-FrontEnd2_Grupo01">Demo</a>
-</div>
-
-<h1 align="center">Lista To do - Checkpoint FrontEnd2 - v2</h1>
-
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/juniorvilas/CheckPoint2-FrontEnd2_Grupo01
-?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/juniorvilas/CheckPoint2-FrontEnd2_Grupo01
-?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/juniorvilas/CheckPoint2-FrontEnd2_Grupo01
-?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/juniorvilas/CheckPoint2-FrontEnd2_Grupo01
-?color=56BEB8">
-
-  <img alt="Github issues" src="https://img.shields.io/github/issues/juniorvilas/CheckPoint2-FrontEnd2_Grupo01
-?color=56BEB8" />
-
-  <img alt="Github forks" src="https://img.shields.io/github/forks/juniorvilas/CheckPoint2-FrontEnd2_Grupo01
-?color=56BEB8" />
-
-  <img alt="Github stars" src="https://img.shields.io/github/stars/juniorvilas/CheckPoint2-FrontEnd2_Grupo01
-?color=56BEB8" />
-</p>
-
-
-
 <hr>
 
 <p align="center">
