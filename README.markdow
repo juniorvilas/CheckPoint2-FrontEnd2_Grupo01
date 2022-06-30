@@ -1,6 +1,6 @@
 
 <div align="center" id="top">
-  <img src="./.github/home.png" alt="Checkpoint2-Frontend2-Lista-TOdo" />
+  <img src="./home.png" alt="Checkpoint2-Frontend2-Lista-TOdo" />
 
   &#xa0;
 
@@ -59,11 +59,11 @@ O objetivo do projeto era cria uma lista todo utilizando JavaSript, CSS, HTML.
 
 ### Tablet ##
 
-<img src="./.github/home-tablet.png" alt="Imagem da tela da home tablet" />
+<img src="./home-tablet.png" alt="Imagem da tela da home tablet" />
 
 ## Mobile ##
 
-<img src="./.github/home-mobile.png" alt="Imagem da tela da home mobile" /> 
+<img src="./home-mobile.png" alt="Imagem da tela da home mobile" /> 
 
 ## :skateboard: Funcionalidades ##
 
